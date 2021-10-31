@@ -11,7 +11,7 @@ def Address():
     return AddressFunc
 
 def Final(PangalanF, EdadF, LugarF):
-    print(f'Ako si {PangalanF} na {EdadF} taong gulang at nakatira sa {LugarF}')
+    print(f'Hi, my name is {PangalanF}. I am {EdadF} years old and I live in {LugarF}.')
 
 Pangalan = Name()
 Edad = Age()
